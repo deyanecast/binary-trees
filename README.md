@@ -4,8 +4,8 @@ Este repositorio sirve como un índice o directorio para todos mis proyectos per
 
 ## Proyectos
 
-### [Nombre del Proyecto 1](URL-del-repositorio-1)
-Breve descripción del Proyecto 1. Qué hace, por qué es interesante, tecnologías utilizadas, etc.
+### [Java Binary Tree]([URL-del-repositorio-1](https://github.com/deyanecast/java-binary-tree.git))
+Este es un ejemplo de un arbol binario en Java, con instrucciones y detalles para verlo funcionar.
 
 ### [Nombre del Proyecto 2](URL-del-repositorio-2)
 Breve descripción del Proyecto 2. Qué hace, por qué es interesante, tecnologías utilizadas, etc.
